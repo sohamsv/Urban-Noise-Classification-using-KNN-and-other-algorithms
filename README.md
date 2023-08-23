@@ -1,7 +1,6 @@
 # Urban-Noise-Classification-using-KNN-and-other-algorithms
-Urban Noise Classification using KNN and other algorithms
 
-* Download audio files from the link below *
+* Download audio files from the link below 
 
 Dataset which is used in this project :-
 
